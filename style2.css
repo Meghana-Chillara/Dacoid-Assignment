@@ -1,0 +1,113 @@
+
+.element{
+    text-align: center;
+     padding: 30px;
+    
+
+}
+@media (min-width:300px) and (max-width:1800px) {
+    .content{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+    }
+}
+
+.email-text{
+    position: absolute;
+    width: 400px;
+    height: 50px;
+    left: 16px;
+    top: 130px;
+    border: none;
+    background: #F1F1F1;
+    border-radius: 12px;
+    padding-left: 25px;
+}
+.password-text{
+   
+        position: absolute;
+        width: 400px;
+        height: 50px;
+        left: 16px;
+        top: 200px;
+        border: none;
+       background: #F1F1F1;
+       border-radius: 12px;
+       padding-left: 25px;
+    }
+    .text{
+        position: absolute;
+        top: 250px;
+        left: 19px;
+        font-weight: lighter;
+    }
+    .Sign-button{
+    position: absolute;
+    margin-top: 240px;
+    width: 343px;
+    height: 40px;
+    border-radius: 12px;
+    border:none;
+    background-color:#21abcd;
+    text-align: center;
+    left:17px ;
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.text1{
+        position: absolute;
+        top:450px;
+        left: 182px;
+        font-weight: normal;
+}
+.google-button{
+    position: absolute;
+    width: 32px;
+    height: 33px;
+    left: 146px;
+    top: 500px;  
+    border:0.5px solid black;
+    border-radius:20%;
+}
+.google{
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 152px;
+    top: 509px;
+    color: #DB4437;
+    }
+   
+.facebook-button{
+    position: absolute;
+    width: 32px;
+    height: 33px;
+    left: 201px;
+    top: 500px;  
+    border:0.5px solid black;
+    border-radius:20%;
+}
+.facebook{
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 210px;
+    top: 509px;
+    color:#21abcd;
+}
+.account{
+    position: absolute;
+    top: 540px;
+    left:65px;
+    font-weight: normal;
+}
+.Create-account{
+    position: absolute;
+    top:560px;
+    left: 275px;
+}
+
+    

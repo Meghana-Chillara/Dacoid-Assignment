@@ -1,0 +1,179 @@
+
+
+
+/* Create an account */
+
+    
+
+h1{
+    text-align: center;
+    padding: 30px;
+    top: 45px;
+    left:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.enter{
+    position: absolute;
+    width: 343px;
+    height: 50px;
+    left: 16px;
+    top: 135px;
+    border: none;
+    background: #F1F1F1;
+    border-radius: 12px;
+    padding-left: 25px;
+   
+    }
+    .enter1{
+        position: absolute;
+        width: 343px;
+        height: 50px;
+        left: 16px;
+        top: 209px;
+        border: none;
+       background: #F1F1F1;
+       border-radius: 12px;
+       padding-left: 25px;
+    }
+        .enter2{
+           position:absolute;
+            width: 343px;
+            height: 50px;
+            left: 16px;
+            top: 283px;
+            background: #F1F1F1;
+            border-radius: 12px;
+             border: none;
+             padding-left: 25px;
+
+        }
+            .enter3{
+                position: absolute;
+                 width: 343px;
+                height: 50px;
+                left: 16px;
+                top: 357px;
+                background-color: #F1F1F1;
+                border-radius: 12px;
+                border: none;
+                padding-left: 25px;
+                }
+              .check{
+                position:absolute;
+                top:430px;
+                width: 20px;
+                height: 20px;
+                left: 16px;
+              }  
+             h3{
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 12px;
+            position: absolute;
+            top: 434px;
+            left:50px ;
+             }
+             .link1{
+                position: absolute;
+                top:432px;
+                left:196px;
+                font-size:12px;
+             }
+             .text{
+                position: absolute;
+                left:225px ;
+                font-size: 12px;
+                top: 435px;
+             }
+             .link2{
+                position: absolute;
+                top:432px;
+                left:248px ;
+                font-size: 12px;
+             }
+.create{
+    position: absolute;
+    margin-top: 390px;
+    width: 343px;
+    height: 40px;
+    border-radius: 12px;
+    border:none;
+    background-color:#21abcd;
+    text-align: center;
+    left:16px ;
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+input[type="email"]::placeholder{
+  color: white;
+    opacity: 1;
+}
+.text1{
+    position: absolute;
+    top: 590px;
+    left: 180px;
+}
+.google-button{
+    position: absolute;
+    width: 32px;
+    height: 33px;
+    left: 146px;
+    top: 650px;  
+    border:0.5px solid black;
+    border-radius:20%;
+}
+.google{
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 153px;
+    top: 659px;
+    color: #DB4437;
+    }
+
+            @media (min-width:300px) and (max-width:1800px) {
+                .content{
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width:50%;
+                }
+            }
+
+
+    
+   
+.facebook-button{
+    position: absolute;
+    width: 32px;
+    height: 33px;
+    left: 201px;
+    top: 650px;  
+    border:0.5px solid black;
+    border-radius:20%;
+}
+.facebook{
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 210px;
+    top: 659px;
+    color:#21abcd;
+}
+.already{
+    position: absolute;
+    top: 700px;
+    left:109px;
+    font-size:16px;
+
+}
+.login-page{
+    position: absolute;
+    top: 695px;
+    left:280px;
+}
+    
+

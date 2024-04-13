@@ -1,0 +1,126 @@
+.rectangle{
+    position: absolute;
+    width: 500px;
+    height: 85px;top: 428px;
+    border: none;
+    background: #FFFFFF;
+    box-shadow: -4px 8px 25px -8px rgba(0, 0, 0, 0.15);
+    border-radius: 12px;
+    
+}
+.image{
+position: absolute;
+width: 50px;
+height: 50px;
+left: 250px;
+top: 441px;
+
+background: url(img7.jpeg), rgba(129, 154, 255, 0.15);
+}
+h5{
+    position: absolute;
+    font-style: normal;
+    left:30px;
+    top:440px;
+}
+h6{
+    position: absolute;
+    top:460px;
+    left:35px ;
+
+   color: #7F7F7F;
+}
+svg{
+position: absolute;
+width: 40px;
+height: 20px;
+left: 450px;
+top: 456px;
+}
+.rectangle1{
+    position: absolute;
+    width:500px;
+    height: 75px;top: 540px;
+    border: none;
+    background: #FFFFFF;
+    box-shadow: -4px 8px 25px -8px rgba(0, 0, 0, 0.15);
+    border-radius: 12px;
+}
+.image-8{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 250px;
+top: 550px;
+
+background: url(img8.jpeg), #819AFF;
+}
+.h5{
+    position:absolute;
+    top:550px;
+    left:30px;
+}
+.h6{
+    position: absolute;
+    top:570px;
+    left:30px;
+}
+.svg-2{
+    position: absolute;
+    top:570px;
+    left:450px;
+}
+.h2-2{
+position: absolute;
+width: 400px;
+height: 20px;
+left: 200px;
+top: 630px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 20px;
+
+color: #2C2B2B;
+}
+.image-9{
+    position: absolute;
+    height: 200px;
+    width: 500px;
+    top:680px;
+
+
+}
+.h7-1{
+    position: absolute;
+    top:720px;
+    left:250px
+}
+.h7-2{
+    position: absolute;
+    top:750px;
+    left:250px;
+}
+.h7-3{
+position: absolute;
+top: 780px;
+left: 250px;
+}
+.image-10{
+    position:absolute;
+    top:700px;
+    left:200px;
+    height:20px ;
+    width: 600px;
+    border-radius: 100%;
+}
+.icons{
+    width: 300px;
+    height: 27.65px;
+    top: 865px;
+    left: 200px;
+    gap: 0px;
+    opacity: 0px;
+}
